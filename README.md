@@ -1,4 +1,4 @@
-# RINEX_spec
+# RINEX_definition
 
 ## 概要
 
@@ -6,6 +6,6 @@
 
 ## 対象
 
-- RINEX 2.11
-- RINEX 3.02
-- RINEX 4.00
+- RINEX 2.11：https://files.igs.org/pub/data/format/rinex211.txt
+- RINEX 3.02：https://files.igs.org/pub/data/format/rinex302.pdf
+- RINEX 4.00：https://files.igs.org/pub/data/format/rinex_4.00.pdf
